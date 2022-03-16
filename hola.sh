@@ -1,1 +1,1 @@
-echo "Hola, este es mi primer saludo."
+echo "¡Hola a todos los alumnos! Este es mi primer saludo."
