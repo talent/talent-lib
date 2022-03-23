@@ -1,0 +1,1 @@
+echo 'Ciao a tutti gli studenti! Questo è il mio primo saluto.'
